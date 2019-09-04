@@ -1,3 +1,5 @@
+https://meddata1.github.io/framework7/
+
 # Framework7 Tabs Starter App Template
 
 Tabs (multiple views) Framework7 starter app template.
